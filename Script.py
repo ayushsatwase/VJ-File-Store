@@ -20,7 +20,7 @@ sɪᴢᴇ ⚙️: {file_size}
 
     SHORTENER_API_MESSAGE = """<b>Tᴏ ᴀᴅᴅ ᴏʀ ᴜᴘᴅᴀᴛᴇ ʏᴏᴜʀ Sʜᴏʀᴛɴᴇʀ Wᴇʙsɪᴛᴇ API, /api (ᴀᴘɪ)
             
-<b>Ex: /api 𝟼LZǫ𝟾𝟻𝟷sXᴏғғғPHᴜɢɪKQǫ
+
 
 <b>Cᴜʀʀᴇɴᴛ Wᴇʙsɪᴛᴇ: {base_site}
 
