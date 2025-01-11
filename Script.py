@@ -16,7 +16,7 @@ class script(object):
 sɪᴢᴇ ⚙️: {file_size}
 
    
-     LOG_TEXT = """<b>#NewUser
+     LOG_TEXT = """<b>
     
 ID - <code>{}</code>
 
